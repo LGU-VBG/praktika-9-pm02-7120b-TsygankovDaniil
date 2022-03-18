@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(29, 54, 77);
+    padding: 10px;
+}
+table {
+    border: 1px solid grey;
+    background-color: aliceblue;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px;
+}
+th {
+    color: rgb(255, 174, 0);
+}
+p {
+    border: 1px solid orange;
+    padding: 10 px;
+    background: orange;
+    color: aliceblue;
+    width: 100px;
+}
